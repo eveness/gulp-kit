@@ -1,0 +1,12 @@
+{
+  "PATH_IN_FILES": "/", 
+  "PATH_DIST": "public/",
+  "DIST_DIR_IMG": "img",
+  "DIST_DIR_CSS": "css",
+  "DIST_DIR_JS": "js",
+  "PATH_SRC": "src/",
+  "OPTIONS": {
+    "JQUERY": false,
+    "JQUERY_VERSION": "1.12.0"
+  }
+}

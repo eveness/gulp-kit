@@ -1,0 +1,7 @@
+{
+  "name": "project",
+  "dependencies": {
+    "normalize.css": "*",
+    "html5shiv": "*"
+  }
+}
